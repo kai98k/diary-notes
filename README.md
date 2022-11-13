@@ -8,7 +8,7 @@ description: 退伍之後，重新整理在剛開始學習前端所會接觸到�
 
 在邊可以把網頁介面視為一棟建築，由三兄弟來營造，大哥 HTML 主要負責的是建築架構設計、二哥 CSS是建築外觀工程、而三哥 JavaScript 則是負責建築施造(包含功能，電梯等等)，而瀏覽器就是業主，負責來使用與檢視這棟由這三兄弟蓋起來的大樓。
 
-![](<.gitbook/assets/image (3).png>)![](<.gitbook/assets/image (1).png>)![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (3) (1).png>)![](<.gitbook/assets/image (1) (1).png>)![](<.gitbook/assets/image (8).png>)
 
 ## HTML 5
 
