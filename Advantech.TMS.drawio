@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T02:23:09.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="q__1PJ676nepaJF--R16" type="github"><diagram id="WBt3KA_loCRxv4rxdQdA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T06:14:10.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="iSTfbQwBZ2pp0yBedpom" type="github">
+  <diagram id="g3XMfGxyo_kw6NTSk5wg" name="第 1 页">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M602ms1gQSyTcSv4hNEp-1" value="Advantech.TMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M602ms1gQSyTcSv4hNEp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M602ms1gQSyTcSv4hNEp-3" target="M602ms1gQSyTcSv4hNEp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M602ms1gQSyTcSv4hNEp-3" value="TMS.DHL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="M602ms1gQSyTcSv4hNEp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M602ms1gQSyTcSv4hNEp-4" target="M602ms1gQSyTcSv4hNEp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M602ms1gQSyTcSv4hNEp-4" value="TMS.Domain" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="M602ms1gQSyTcSv4hNEp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M602ms1gQSyTcSv4hNEp-10" target="M602ms1gQSyTcSv4hNEp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M602ms1gQSyTcSv4hNEp-10" value="Advantech.&lt;br&gt;Utilities.Ftp" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
